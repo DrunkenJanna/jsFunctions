@@ -1,0 +1,39 @@
+ZADANIE 1
+Napisz funkcjê, która jako argument przyjmuje tablicê i zwraca tablice, w której wartoœci s¹ pomno¿one przez drugi argument
+Przyk³ad
+moja_funkcja([1, 2, 3], 3) -> [3, 6, 9]
+
+ZADANIE 2 
+Napisz funkcjê, która bêdzie zwraca³a tablicê, której elementami bêdzie n kolejnych liczb ci¹gu
+fibonacciego.
+
+ZADANIE 3
+Stwórz tablicê "losowa" zawieraj¹c¹ 25 losowych liczb. Nastêpnie napisz funkcjê, która bêdzie 
+sortowa³a elementy tablicy "losowa" i umieœci je w nowej tablicy.
+//*Wskazówka -> "Math.floor(Math.random() * 10) + 1;" zwraca losow¹ liczbê od 1 do 10
+
+ZADANIE 4 
+Napisz funkcjê, która za pomoc¹ pêtli wypisze:
+a)
+    X
+   XXX
+  XXXXX
+ XXXXXXX
+XXXXXXXXX
+
+b)
+    X
+   X X
+  X   X
+ X     X
+XXXXXXXXX
+
+ZADANIE 5
+Zamieñ wszystkie funkcje na strza³kowe, jeœli jeszcze tego nie zrobi³eœ
+
+
+ZADANIE NA 6:
+Napisz funkcjê, która za pomoc¹ wbudowanej funkcji string.split() (sprawdŸ w dokumentacji) i dowolnej pêtli, sprawdŸ czy podane s³owo jest palindromem.
+
+
+

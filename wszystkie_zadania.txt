@@ -1,0 +1,90 @@
+ZADANIE
+Napisz funkcjê, która jako argument przyjmuje tablicê i zwraca tablice, w której wartoœci s¹ pomno¿one przez drugi argument
+
+
+ZADANIE 1 -
+Zadeklaruj tablicê tab z 5 wybranymi przez Ciebie wyrazami. 
+Wypisz t¹ tablicê w konoli i przypisz jej d³ugoœæ do zmiennej. Nastêpnie wypisz pierwszy i ostatni element.
+
+ZADANIE 2 -
+Stwórz tablicê sk³adaj¹c¹ siê 7 wybranych przez Ciebie ca³kowitych liczb z przedzia³u 10 - 30. 
+Wypisz na stronie elementy tablicy w kolejnoœci od najwiêkszego do najmniejszego, a nastêpnie 
+podaj jaka liczba z tej tablicy ma najwiêksz¹ wartoœæ.
+Zadanie wykonaj za pomoc¹ dowolnej pêtli oraz drugi raz z u¿yciem .forEach()
+
+ZADANIE 3 -
+Jest dana tablica:
+const imiona = [
+    "Marcin",
+    "Ania",
+    "Monika",
+    "Piotrek",
+    "Beata"
+]
+Posortuj j¹ alfabetycznie i wypisz w konsoli lub na stronie.
+
+ZADANIE 4 -
+Jest dana tablica:
+const pliki = [
+    "zdjecie.jpg",
+    "wakacje.jpg",
+    "mem.gif",
+    "auto.png",
+    "archiwum.zip",
+    "dokument.txt",
+    "paczka.zip",
+    "kwiatek.png"
+]
+Posortuj j¹ po d³ugoœciach kolejnych elementów. Na pocz¹tku powinien byæ najkrótszy tekst, na koñcu najd³u¿szy. 
+Nastêpnie napisz, ile liter maj¹ wszystkie elementy razem.
+
+ZADANIE 5 -
+
+Stwórz tablicê "cyfry", której elementami bedziê 15 wybranych przez Ciebie liczb. Nastêpnie napisz funkcjê,
+która wypiszê now¹ tablicê zawieraj¹c¹ tylko parzyste liczby z tablicy "cyfry". 
+
+ZADANIE 6 +
+
+Stwórz tablicê "losowa" zawieraj¹c¹ 25 losowych liczb. Nastêpnie napisz funkcjê, która bêdzie 
+sortowa³a elementy tablicy "losowa" i umieœci je w nowej tablicy.
+//*Wskazówka -> "Math.floor(Math.random() * 10) + 1;" zwraca losow¹ liczbê od 1 do 10 
+
+ZADANIE 7 -
+
+Stwórz tablicê "owoce", której elementami bêdzie 5 wybranych przez Ciebie owoców. Nastêpnie usuñ ostatni element
+tej tablicy i dodaj na koñcu nowy owoc. SprawdŸ wynik wykonanej operacji w konsoli.
+
+Zadanie 8 -
+
+Mamy tablicê const auta = ["Polonez", "Syrenka", "FSO_WARSZAWA"];
+Nastêpnie po elemencie "Syrenka" dodaj dwa wybrane przez Ciebie modele/marki samochodów.
+Usuñ przy tym element "FSO_WARSZAWA". SprawdŸ wynik wykonanej operacji w konsoli.
+Zadanie wykonaj przy u¿yciu splice().
+
+ZADANIE 9 -
+Mamy tablicê:
+
+const tab = [1,2,3, [4,5,6, 7, 8], 9, 10];
+Policz sumê wszystkich liczb w tablicy. Nastêpnie wypisz w konsoli t¹ sumê oraz œredni¹ liczb.
+
+
+zadanie 10
+za pomoca funkcji wbudowanej stworz tablice - nazwijmy ja tablicaLiczb - zawierajaca 50 dowolnych liczb.
+nastepnie stworz nowa tablice - ulozonaTablica - ktorej indexem 0 bedzie tablica z parzystymi liczbami z tablicaLiczb,
+natomiast index 1 to tablica z liczbami nieparzystymi.
+wypisz na ekranie wynik redukcji tablic z ulozonaTablica. Korzystaj z funkcji wbudowanych map, filter i reduce
+
+
+zadanie 11
+stworz tablice zawierajaca 4 elementy, ktorymi beda tablice zawierajace po 3 dowolne niepowtarzajace wartosci;
+nastepnie za pomoca funkcji foreach wypisz elementy tej tablicy tak aby KAZDY byl poprzedzony napisem
+
+zadanie 12
+na tej samej tablicy co w zadaniu 11. ze wszystkich tablic usun po pierwszym i ostatnim elemencie.
+
+
+    X
+   X X
+  X   X
+ X     X
+X       X
